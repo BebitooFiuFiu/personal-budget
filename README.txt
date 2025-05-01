@@ -1,0 +1,1 @@
+Aplique según lo aprendido en la primera clase de JS, siento que voy mejorando poco a poco, me agrada y parece interesante JS.
